@@ -1,1 +1,7 @@
 Hello there! This is working, finallY!!!!!
+
+# Julia favourite things to do
+
+-read books
+-do Yoga
+- and go for a long walk
