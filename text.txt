@@ -5,3 +5,10 @@ Hello there! This is working, finallY!!!!!
 -read books
 -do Yoga
 - and go for a long walk
+
+# Rami favourite things to do
+
+- read 
+- meditate 
+- long walks in nature
+
